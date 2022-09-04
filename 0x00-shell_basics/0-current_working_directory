@@ -1,3 +1,2 @@
 #!/bin/bash
- print "pwd"
-end
+ printf "pwd"
