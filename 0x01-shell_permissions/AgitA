@@ -1,0 +1,5 @@
+#!/bin/bash
+{ git add 6-multiple_permissions ; }
+{ git commit ; }
+{ git push https://ntsikanesani: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@github.com/ntsikanesani/alx-system_engineering-devops.git ; }
+
