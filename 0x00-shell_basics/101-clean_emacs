@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -a *.c~
+rm -A *~
